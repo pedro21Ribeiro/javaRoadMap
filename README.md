@@ -4,3 +4,5 @@ Esse repositório serve para que eu possa guardar meu progresso que eu faço seg
 [roadmap.sh](https://roadmap.sh/java)
 
 _tentarei_ manter nele somente projetos da trilha
+
+## Atenção as atividades são salvas em branchs, há um branch para cada tema
