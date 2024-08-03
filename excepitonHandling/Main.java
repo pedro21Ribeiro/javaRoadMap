@@ -1,7 +1,9 @@
+package excepitonHandling;
+
 import java.util.Scanner;
 
-import net.pedro.Age;
-import net.pedro.exception.BurroException;
+import excepitonHandling.net.pedro.Age;
+import excepitonHandling.net.pedro.exception.BurroException;
 
 /* 
  * Exit 0 - Sem problemas

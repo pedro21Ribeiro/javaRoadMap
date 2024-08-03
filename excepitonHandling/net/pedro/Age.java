@@ -1,6 +1,6 @@
-package net.pedro;
+package excepitonHandling.net.pedro;
 
-import net.pedro.exception.BurroException;
+import excepitonHandling.net.pedro.exception.BurroException;
 
 public class Age {
 

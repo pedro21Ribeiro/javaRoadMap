@@ -1,4 +1,4 @@
-package net.pedro.exception;
+package excepitonHandling.net.pedro.exception;
 
 public class BurroException extends RuntimeException{
     public BurroException (String message){
